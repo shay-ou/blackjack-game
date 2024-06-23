@@ -1,0 +1,39 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://w0.peakpx.com/wallpaper/6/852/HD-wallpaper-poker-playing-cards-ace-card-games-games-jack-king-pink-and-black-playing-cards-poker-cards-queen.jpg ");
+    background-size: cover;
+    text-align: center;
+    color-scheme: red;
+    color: white
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Bonheur Royale', Georgia;
+
+}
+
+#message-el {
+    font-style: italic
+}
+
+
+
+
+
+
+
+
+button {
+    border: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: red;
+    font-weight: bold;
+    background: pink;
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 5px;
+
+}
